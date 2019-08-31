@@ -7,11 +7,6 @@ Live Website preview
 -----------
 * (https://www.egyptfortravel.com/) 
 
- Key features: 
------------
-* 
-* Advanced search by name, regions and fields
-
 Screenshot
 -----------
 <p>
