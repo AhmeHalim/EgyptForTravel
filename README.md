@@ -10,7 +10,7 @@ Live Website preview
  Key features: 
 -----------
 
-* System for booking trips different payment methods 
+* System for booking trips with different payment methods 
 * System for booking hotels with various ratings
 * admin dashboard to control the content of the website view
 
