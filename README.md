@@ -7,6 +7,14 @@ Live Website preview
 -----------
 * (https://www.egyptfortravel.com/) 
 
+ Key features: 
+-----------
+
+* System for booking trips different payment methods 
+* System for booking hotels with various ratings
+* admin dashboard to control the content of the website view
+
+
 Screenshot
 -----------
 <p>
